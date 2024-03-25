@@ -12,4 +12,4 @@ For further support, please reach out to [Suzan Farhang-Sardroodi](https://www.s
 
 These codes were developed as part of the study titled "A machine learning approach to differentiate between COVID-19 and influenza infection using synthetic 
 infection and immune response data" by Suzan Farhang-Sardroodi et al., published in 2022. 
-For any use of these codes, please cite the publication at [[doi: 10.3934/mbe.2022272](https://www.aimspress.com/article/doi/10.3934/mbe.2022272)]([doi: 10.3934/mbe.2022272](https://www.aimspress.com/article/doi/10.3934/mbe.2022272)).
+For any use of these codes, please cite the publication at [[doi: 10.3934/mbe.2022272](https://www.aimspress.com/article/doi/10.3934/mbe.2022272)].

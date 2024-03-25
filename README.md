@@ -11,4 +11,5 @@ For further support, please reach out to [Suzan Farhang-Sardroodi](https://www.s
 # Citation
 
 These codes were developed as part of the study [Farhang-Sardroodi, Suzan, Mohammad Sajjad Ghaemi, Morgan Craig, Hsu Kiang Ooi, and Jane M. Heffernan. "A machine learning approach to differentiate between COVID-19 and influenza infection using synthetic infection and immune response data." 2022](https://www.aimspress.com/article/doi/10.3934/mbe.2022272). 
+
 For any use of these codes, please cite the publication at [doi: 10.3934/mbe.2022272](https://www.aimspress.com/article/doi/10.3934/mbe.2022272).
